@@ -1,4 +1,4 @@
-Copyright (C) <2011> by <EDINA, University of Edinburgh>
+Copyright (C) 2011 by EDINA, University of Edinburgh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,4 +23,5 @@ a different license to the above.  The license is located in
 the lib directory.  You must agree to the terms of this
 license, in addition to the above license, in order to use this software.
 
-If you use/modify this software, we would appreciate it if you give attribution to EDINA (JISC National Data Centre based at the University of Edinburgh).
+If you use/modify this software, we would appreciate it if you give attribution 
+to EDINA (JISC National Data Centre based at the University of Edinburgh).
